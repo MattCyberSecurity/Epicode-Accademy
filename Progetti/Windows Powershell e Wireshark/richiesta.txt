@@ -1,0 +1,32 @@
+Laboratorio - Utilizzo di Windows PowerShell 
+
+In questo laboratorio, esploreremo alcune delle funzioni di PowerShell. 
+
+https://itexamanswers.net/3-3-11-lab-using-windows-powershell-answers.html
+---------------------------------------------------------------------------
+Laboratorio - Utilizzo di Wireshark per Esaminare il Traffico HTTP e HTTPS 
+
+In questo laboratorio, completa i seguenti obiettivi: 
+● Catturare e visualizzare il traffico HTTP 
+● Catturare e visualizzare il traffico HTTPS 
+
+https://itexamanswers.net/10-6-7-lab-using-wireshark-to-examine-http-and-https-traffic-answers.html
+---------------------------------------------------------------------------
+Bonus 1
+
+Laboratorio - Esplorazione di Nmap 
+
+La scansione delle porte è solitamente parte di un attacco di ricognizione. 
+
+Esistono diversi metodi di scansione delle porte che possono essere utilizzati. 
+
+https://itexamanswers.net/9-3-8-lab-exploring-nmap-answers.html
+---------------------------------------------------------------------------
+Bonus 2 
+
+Attacco a un Database MySQL 
+
+In questo laboratorio, completa il seguente obiettivo: 
+● Visualizzare un file PCAP relativo a un attacco precedente contro un database SQL. 
+
+https://itexamanswers.net/17-2-6-lab-attacking-a-mysql-database-answers.html
