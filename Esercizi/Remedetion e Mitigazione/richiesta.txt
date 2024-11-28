@@ -1,0 +1,32 @@
+Minaccia di Phishing 
+
+Scenario 
+
+Immagina di essere un amministratore di sicurezza per una media azienda che ha scoperto una campagna di phishing mirata contro i propri dipendenti. Gli attaccanti inviano email fraudolente che sembrano provenire da fonti affidabili, inducendo i dipendenti a divulgare informazioni sensibili o a scaricare malware. 
+
+Istruzioni 
+
+1. Identificazione della Minaccia: 
+○ Ricerca e documenta cos'è il phishing e come funziona. 
+○ Spiega come un attacco di phishing può compromettere la sicurezza dell'azienda. 
+
+2. Analisi del Rischio: 
+○ Valuta l'impatto potenziale di questa minaccia sull'azienda. 
+○ Identifica le risorse che potrebbero essere compromesse (ad es. credenziali di accesso, informazioni sensibili, dati aziendali).
+
+3. Pianificazione della Remediation: 
+○ Sviluppa un piano per rispondere all'attacco di phishing. Il piano dovrebbe includere: 
+   ■ Identificazione e blocco delle email fraudolente. 
+   ■ Comunicazione ai dipendenti sull'attacco e sulle misure da adottare. 
+   ■ Verifica e monitoraggio dei sistemi per individuare eventuali compromissioni. 
+
+4. Implementazione della Remediation: 
+○ Descrivi i passaggi pratici che intraprenderesti per mitigare la minaccia di phishing. Questo potrebbe includere: 
+   ■ Implementazione di filtri anti-phishing e soluzioni di sicurezza email. 
+   ■ Formazione dei dipendenti su come riconoscere e segnalare tentativi di phishing. 
+   ■ Aggiornamento delle policy di sicurezza aziendali. 
+
+5. Mitigazione dei Rischi Residuali: ○ Identifica misure di mitigazione da implementare per ridurre il rischio residuo, come: 
+   ■ Esecuzione di test di phishing simulati per valutare la reattività dei dipendenti. 
+   ■ Implementazione di autenticazione a due fattori 2FA) per l'accesso ai sistemi critici. 
+   ■ Regolari aggiornamenti e patching dei sistemi per ridurre le vulnerabilità sfruttabili.
