@@ -1,0 +1,12 @@
+Si ricordi che la configurazione dei servizi costituisce essa stessa una parte integrante dell'esercizio. 
+
+Lʼesercizio di oggi ha un duplice scopo: 
+
+● Fare pratica con Hydra per craccare lʼautenticazione dei servizi di rete. 
+● Consolidare le conoscenze dei servizi stessi tramite la loro configurazione. 
+
+Lʼesercizio si svilupperà in due fasi: 
+
+● Una prima fase dove insieme vedremo lʼabilitazione di un servizio SSH e la relativa sessione di cracking dellʼautenticazione con Hydra. 
+● Una seconda fase dove sarete liberi di configurare e craccare un qualsiasi servizio di rete tra quelli disponibili, ad esempio ftp, rdp, 
+telnet, autenticazione HTTP.
