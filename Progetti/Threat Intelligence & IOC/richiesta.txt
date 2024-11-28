@@ -1,0 +1,9 @@
+Durante la lezione teorica, abbiamo visto la Threat Intelligence e gli indicatori di compromissione. 
+Abbiamo visto che gli IOC sono evidenze o eventi di un attacco in corso, oppure già avvenuto.
+
+Per lʼesercizio pratico di oggi, trovate in allegato una cattura di rete effettuata con Wireshark. 
+Analizzate la cattura attentamente e rispondere ai seguenti quesiti: 
+
+● Identificare ed analizzare eventuali IOC, ovvero evidenze di attacchi in corso 
+● In base agli IOC trovati, fate delle ipotesi sui potenziali vettori di attacco utilizzati 
+● Consigliate unʼazione per ridurre gli impatti dellʼattacco attuale ed eventualmente un simile attacco futuro
