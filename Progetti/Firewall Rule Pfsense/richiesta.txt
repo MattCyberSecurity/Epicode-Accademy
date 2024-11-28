@@ -1,0 +1,12 @@
+Creazione pratica di una regola Firewall. 
+
+Per la creazione di una regola firewall, andare su Firewall > Rules. 
+In questa sezione si può scegliere su quale interfaccia creare la regola: scegliamo LAN e clicchiamo su ADD 
+(come vedete ci sono 2 add, il primo crea la regola in cima al policy set, la seconda in basso)
+
+Sulla base di quanto visto, creare una regola firewall che blocchi lʼaccesso alla DVWA 
+(su metasploitable) dalla macchina Kali Linux e ne impedisca di conseguenza lo scan. 
+Un requisito fondamentale dellʼesercizio è che le macchine Kali e Metasploitable siano su reti diverse, 
+potete aggiungere una nuova interfaccia di rete a Pfsense in modo tale da gestire una ulteriore rete. 
+
+Connettetevi poi in Web Gui per attivare la nuova interfaccia e configurarla.
