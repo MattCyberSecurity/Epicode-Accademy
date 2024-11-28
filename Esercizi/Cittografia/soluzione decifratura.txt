@@ -1,0 +1,11 @@
+Esercizio di oggi: Crittografia. 
+Dato un messaggio cifrato cercare di trovare il testo in chiaro: 
+Messaggio cifrato: "HSNFRGH"
+
+
+Utilizzando il cifrario di Cesare con lo spostamento delle lettere di 3 spazi.
+(EXAMPLE  A>D oppure E>H)
+
+quindi il risultato sara' : EPICODE
+                            |||||||
+                            HSNFRHG
