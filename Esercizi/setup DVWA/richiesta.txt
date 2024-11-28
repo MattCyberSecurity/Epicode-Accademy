@@ -1,0 +1,43 @@
+Traccia: 
+
+Nella lezione pratica di oggi vedremo come configurare una DVWA – ovvero damn vulnerable web application in Kali Linux. 
+La DVWA ci sarà molto utile per i nostri test. 
+
+Pre-requisiti: 
+
+Per installare la DVWA vi servirà connettività ad internet da Kali Linux, avete 2 possibilità: 
+
+● Per chi avesse già installato una nuova Kali con scheda di rete bridged potete utilizzare quella. 
+● Altrimenti, potete modificare le impostazioni della scheda di rete della vostra istanza di Kali, 
+aggiungendo una scheda di rete bridged come in figura.
+
+
+Appena creato il database verrete rediretti su una pagina di login, 
+dove potete entrare inserendo le credenziali di admin di default. 
+
+Username: admin 
+password: password 
+
+Una volta entrati nellʼapp, cliccate sulla scheda DVWA Security. 
+Qui possiamo scegliere il livello di sicurezza dellʼAPP.  Più basso sarà il livello di sicurezza impostato, 
+meno sarà complicato sfruttare le vulnerabilità. 
+
+La colonna a sinistra, invece, lista tutte le vulnerabilità presenti. 
+
+Ora che la nostra app è attiva, facciamo un poʼ di pratica con Burpsuite. 
+
+Esercizio Web App Lanciamo Burpsuite, scegliamo un progetto temporaneo ed apriamo un browser, inserendo lʼindirizzo della 
+nostra DVWA 127.0.0.1/DVWA e inseriamo nei campi login e password i valori «admin» e «password» rispettivamente. 
+Intercettiamo la richiesta con burp e vediamo come possiamo modificarla. Guardate i parametri di login, 
+possiamo modificarli a nostro piacimento prima di inviare la richiesta allʼapp.
+
+Proviamo a modificare i campi, ed inviare la richiesta inserendo delle credenziali sicuramente errate. 
+Prima di inviare la richiesta, clicchiamo con il tasto destro e selezioniamo «send to repeater» 
+Clicchiamo su send per inviare la richiesta di login ed e poi su follow redirection.
+
+Come ci aspettavamo con le credenziali errate non riusciamo ad entrare. 
+Ne abbiamo evidenza nel body della http response dove leggiamo «Login failed». 
+
+La pratica rende perfetti e lʼesperienza con i tool è fondamentale, provate ad eseguire diversi test modificando i parametri e
+ verificate i vari scenari nei quali riuscite ad ottenere accesso allʼarea riservata. 
+
