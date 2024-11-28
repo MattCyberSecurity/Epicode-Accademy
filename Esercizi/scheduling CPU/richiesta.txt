@@ -1,0 +1,21 @@
+Lʼesercizio di oggi verte sui meccanismi di pianificazione dellʼutilizzo della CPU (o processore). 
+n ottica di ottimizzazione della gestione dei processi, abbiamo visto come lo scheduler si sia evoluto nel tempo per passare 
+da approccio mono-tasking ad approcci multi-tasking. 
+
+Traccia: 
+
+Si considerino 4 processi, che chiameremo P1,P2,P3,P4, con i tempi di esecuzione e di attesa input/output dati in tabella. 
+I processi arrivano alle CPU in ordine P1,P2,P3,P4. Individuare il modo più efficace per la gestione e lʼesecuzione dei processi, 
+tra i metodi visti nella lezione teorica. Abbozzare un diagramma che abbia sulle ascisse il tempo passato da un instante «0» e 
+sulle ordinate il nome del Processo.
+
+
+Processo           Tempo di esecuzione               Tempo di attesa           Tempo di esecuzione dopo attesa
+
+P1                    3 secondi                         2 secondi                         1 secondo
+
+P2                    2 secondi                         1 secondo                             -
+ 
+P3                    1 secondi                             -                                 -
+
+P4                    4 secondi                         1 secondo                             -
