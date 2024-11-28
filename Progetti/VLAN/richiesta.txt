@@ -1,0 +1,4 @@
+Esercizio di Oggi 
+
+L'esercizio di oggi riguarderà la creazione di una rete segmentata con 4 VLAN diverse. 
+Oltre agli screenshot del progetto, spiegherete le motivazioni per cui si è scelto di ricorrere alle VLAN.
