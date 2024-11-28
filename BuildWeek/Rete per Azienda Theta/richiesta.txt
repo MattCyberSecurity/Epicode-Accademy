@@ -1,0 +1,44 @@
+Progetto di Rete per la Compagnia Theta 
+
+Specifiche del Progetto  
+
+Siamo stati ingaggiati dalla compagnia Theta per sviluppare un preventivo di spesa e un progetto di rete per la loro infrastruttura IT. 
+Ecco i requisiti e i componenti necessari: 
+
+● Struttura dell'edificio: 6 piani 
+● Dispositivi previsti: 20 computer per piano, per un totale di 120 computer 
+● Componenti aggiuntivi: 
+        ○ 1 Web server (rappresentato dalla macchina DVWA di Metasploitable) 
+        ○ 1 Firewall perimetrale 
+        ○ 1 NAS Network Attached Storage) 
+        ○ 3 IDS/IPS Intrusion Detection System / Intrusion Prevention System)
+
+Rete Interna Aziendale  
+
+● Switch per ogni piano: Collegare i 20 computer di ciascun piano a uno switch dedicato. 
+● Router: Collegare tutti gli switch dei vari piani a un router centrale. 
+● Firewall: Posizionare il firewall perimetrale tra il router interno e la connessione a Internet. 
+● NAS Collegare il NAS al router centrale per garantire l'accesso ai dati da parte di tutti i computer aziendali. 
+● IDS/IPS Implementare 3 IDS/IPS nel perimetro interno per monitorare il traffico di rete e prevenire intrusioni. 
+
+Rete Esterna (Internet) 
+
+● Connessione a Internet: Collegare il firewall perimetrale a Internet. 
+● Web Server: Posizionare il web server DVWA di Metasploitable) nella zona demilitarizzata DMZ) tra il firewall e la connessione a 
+Internet, garantendo così un accesso sicuro dall'esterno.
+
+Testing della Rete 
+Per concludere il progetto, effettueremo una serie di test sulla rete implementata. I test includeranno: 
+1.  Verifica dei Verbi HTTP Scriveremo un programma in Python per inviare richieste HTTP GET, POST, PUT, DELETE) 
+al web server e verificare le risposte. 
+2.  Scansione delle Porte: Utilizzeremo un programma in Python per eseguire una scansione delle porte sui dispositivi di rete, 
+verificando la sicurezza e l'accessibilità delle varie porte di comunicazione. 
+
+Report Finale 
+
+Alla conclusione dei test, redigeremo un report dettagliato che includerà: 
+
+● Risultati dei Test HTTP Documentazione delle risposte ricevute dal web server per ogni verbo HTTP testato. 
+● Risultati della Scansione delle Porte: Elenco delle porte aperte e chiuse sui vari dispositivi, con raccomandazioni di sicurezza. 
+
+Questo approccio garantirà che l'infrastruttura di rete della compagnia Theta sia ben progettata, sicura e pronta per operare in modo efficiente.
