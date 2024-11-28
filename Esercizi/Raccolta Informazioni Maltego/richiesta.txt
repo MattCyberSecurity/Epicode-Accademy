@@ -1,0 +1,33 @@
+Nellʼesercizio di oggi, lo studente effettuerà una simulazione della fase di raccolta informazioni utilizzando dati pubblici 
+su un target a scelta. Lo scopo di questo esercizio è di familiarizzare con i principali strumenti della fase di information gathering. 
+
+Strumenti Principali: 
+
+1. Google: 
+○ Utilizzato per la raccolta iniziale di informazioni. 
+○ Esempi di utilizzo: ricerca di dati pubblici, articoli, profili social, documenti aziendali. 
+
+2. Maltego: 
+○ Strumento per lʼanalisi e la visualizzazione di relazioni tra persone, gruppi, organizzazioni, domini, siti web e altre entità. 
+○ Permette di costruire mappe di connessioni e scoprire informazioni nascoste.
+
+Istruzioni: 
+
+1. Selezione del Target:  
+○ Scegli un target per la tua simulazione (può essere un'azienda, una persona pubblica, un sito web, ecc.). 
+
+2. Raccolta delle Informazioni con Google: 
+○ Effettua ricerche utilizzando parole chiave pertinenti al target scelto.  
+○ Prendi nota delle informazioni rilevanti trovate (es. nomi, indirizzi, contatti, notizie, ecc.). 
+
+3. Analisi con Maltego: ○ Importa i dati raccolti in Maltego. 
+○ Usa Maltego per creare una mappa delle connessioni e delle relazioni tra le informazioni trovate. 
+○ Identifica eventuali collegamenti o informazioni aggiuntive non immediatamente visibili. 
+
+Alla fine dellʼanalisi, lo studente dovrà produrre un piccolo report dove indicherà per ogni tool utilizzato: 
+
+● Il target. 
+
+● Le query utilizzate (dove applicabile). 
+
+● I risultati ottenuti.
