@@ -1,0 +1,78 @@
+1 import datetime
+2 def assistente_virtuale(comando):
+3    if comando == "Qual è la data di oggi?":
+4        oggi = datetime.datetoday()  
+5        risposta = "La data di oggi è " + oggi.strftime("%d/%m/%Y")
+6    elif comando == "Che ore sono?":
+7        ora_attuale = datetime.datetime.now().time()  
+8        risposta = "L'ora attuale è " + ora_attuale.strftime("%H:%M")
+9    elif comando == "Come ti chiami?":
+10        risposta = "Mi chiamo Assistente Virtuale"
+11    else:
+12        risposta = "Non ho capito la tua domanda."  
+13    return risposta
+14 while True
+15    comando_utente = input("Cosa vuoi sapere? ")
+16    if comando_utente.lower() == "esci":
+17        print("Arrivederci!")
+18        break
+19    else:
+20        print(assistente_virtuale(comando_utente)) 
+
+
+
+COSA FA QUESTO PROGRAMMA?
+
+-Questo programma esegue un menu a stile assistente virtuale dove si puo' chiedere tramite frasi input che ore sono e che giorno e'.  
+Il codice e' scritto in modo che il programma continuera' a chiederti un input finche' lo user non inserira' la stringa 'exit' per uscirne.
+
+
+ERRORI SINTASSI / LOGICI (CASISTICHE NON GESTITE):
+
+~Sintassi:
+
+- Nella stringa numero 4 "oggi = datetime.datetoday()"                                        La soluzione e' "oggi = datetime.date.today()"
+- Nella stringa numero 14 il ciclo while true presenta un errore di sintassi                  La soluzione e' "while True:"
+
+LOGICI:
+
+- Il programma e' stato scritto in modo tale che l utente debba chiedere alla macchina le domande con l'esatta sintassi dentro al codice. 
+Questo oltre a essere noioso potrebbe creare alcuni problemi di utilizzo per alcuni utenti che non fanno caso alla sintassi o non conoscono questo tipo di problema.
+Soluzione: Per evitare questo problema io aggiungerei il comando "comando_utente.lower()" in ogni domanda per garantire un corretto riconoscimento delle frasi senza problema di sintassi.
+Esempio: Prima della soluzione la macchina considerava diverso "Che ore sono?" da "che ore sono?", dopo la soluzione indipendetemente da come viene scritto, la macchina sa riconoscerlo.
+
+oppure si potrebbe aggiungere la libreria 're' in codice 'import re' per la ricerca di parole chiave cosi da semplificare le richieste e il riconoscimento.
+Esempio: Potresti chiedere alla macchina "che ora e'?" o "qual'e l' ora?" e saprebbe comunque riconoscere la risposta per la parola chiave 'ora'
+
+- Il programma in se funziona correttamente dopo la correzione della sintassi pero' io penso che si potrebbe riscrivere in un modo piu' facile da gestire, veloce e ordinato.
+Soluzione: potrebbe essere semplificato dando alla macchina piu' funzioni senza che i comandi stiano tutti all interno dell'unico blocco funzione 'assistente_virtuale' cosi non necessitera'
+di future modifiche in caso di aggiunta di comandi come ' che meteo ce oggi?' . Sostituirei i cicli if,elif,else sotto alla funzione assistente_virtuale e 
+definirei le risposte una per una: ( def data_oggi, def ora_attuale, def nome_ai con i loro vari return e/o calcoli. ) 
+Es.
+
+def nome_ai():
+    return "Mi chiamo Assistente Virtuale"
+
+
+
+Invece poi all interno della funzione 'assistente_virtuale' aggiungerei tutte le domande e le relavative risposte gia' definite precedentemente:
+
+
+ def assistente_virtuale(comando):
+  comandi = {
+"Che giorno e' oggi?": data_oggi,
+"Che ore sono?": ora_attuale,
+"Come ti chiami?": nome_ai
+}
+
+
+
+
+
+    
+
+
+   
+
+
+
