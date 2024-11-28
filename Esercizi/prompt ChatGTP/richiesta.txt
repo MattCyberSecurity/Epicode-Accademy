@@ -1,0 +1,25 @@
+Social Engineering e Tecniche di Difesa 
+
+Obiettivo: Esplorare le tecniche di social engineering e imparare come difendersi da questi tipi di attacchi. 
+Questo esercizio vi guiderà attraverso la comprensione delle varie forme di social engineering, esempi reali di attacchi e strategie di difesa efficaci. 
+
+Descrizione dell'attività: Dovrete scrivere un prompt per ChatGPT che vi permetta di ottenere informazioni dettagliate sulle tecniche di 
+social engineering. Analizzate gli esempi forniti e sviluppate una serie di raccomandazioni per prevenire tali attacchi. 
+Infine, create una presentazione o un documento che riassuma le vostre scoperte e raccomandazioni. 
+
+Passaggi: 
+
+1. Comprendere il Social Engineering: 
+○ Formulate un prompt per ChatGPT per ottenere una panoramica del social engineering e delle tecniche utilizzate dagli attaccanti. 
+
+2. Esempio di prompt: 
+"ChatGPT, potresti spiegare cos'è il social engineering e descrivere le tecniche più comuni utilizzate dagli attaccanti, come phishing e tailgating?"
+
+Strategie di Difesa: 
+
+● Chiedete a ChatGPT di suggerire strategie e migliori pratiche per difendersi dagli attacchi di social engineering. 
+Prendete nota delle tecniche di difesa più efficaci. 
+
+Esempio di prompt: 
+
+"ChatGPT, potresti elencare e spiegare alcune strategie efficaci per difendersi dagli attacchi di social engineering
