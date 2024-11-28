@@ -1,0 +1,10 @@
+Esercizio di oggi:
+
+Configurazione di un Server DHCP su Cisco Packet Tracer Obiettivo: 
+
+Configurare un server DHCP per la distribuzione automatica degli indirizzi IP. 
+
+Attività: 
+
+● Installare e configurare un server DHCP Cisco Packet Tracer). 
+● Configurare il server per assegnare indirizzi IP in un range specifico.
