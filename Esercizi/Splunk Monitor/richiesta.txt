@@ -1,0 +1,6 @@
+Esercizio di oggi: Configurazione della Modalità Monitora in Splunk 
+
+Abbiamo esplorato diverse funzionalità offerte da Splunk. 
+Oggi ci concentreremo sulla modalità "Monitora". Il compito di oggi consiste nel configurare la modalità Monitora in Splunk e realizzare degli screenshot che confermino l'avvenuta configurazione. 
+
+In breve: Lo studente dovrà configurare la modalità Monitora in Splunk e realizzare degli screenshot che mostrino l'esecuzione.
