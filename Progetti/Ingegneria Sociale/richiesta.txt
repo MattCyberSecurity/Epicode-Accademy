@@ -1,0 +1,20 @@
+Esercizio del Giorno 
+
+Obiettivo: Creare una simulazione di un'email di phishing utilizzando ChatGPT. 
+
+Istruzioni: 
+
+1. Creare uno scenario: 
+○ Pensate a un contesto realistico in cui un'email di phishing potrebbe essere inviata. 
+Può essere una notifica bancaria, un'email di un fornitore di servizi, un messaggio di un collega, ecc. 
+○ Definite chiaramente l'obiettivo del phishing (ad esempio, ottenere credenziali di accesso, informazioni personali, dati finanziari, ecc.). 
+
+2. Scrivere l'email di phishing: 
+○ Utilizzate ChatGPT per generare il contenuto dell'email. 
+○ Assicuratevi che l'email sia convincente, ma anche che contenga gli elementi tipici delle email di phishing 
+(ad esempio, richieste urgenti, link sospetti, errori grammaticali). 
+
+3. Spiegare lo scenario: 
+○ Descrivete lo scenario che avete creato. 
+○ Spiegate perché l'email potrebbe sembrare credibile alla vittima. 
+○ Evidenziate gli elementi dell'email che dovrebbero far scattare un campanello d'allarme sulla sua autenticita'.
