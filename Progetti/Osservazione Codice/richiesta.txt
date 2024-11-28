@@ -1,0 +1,10 @@
+Traccia: 
+
+Per agire come un Hacker bisogna capire come pensare fuori dagli schemi. Lʼesercizio di oggi ha lo scopo di allenare lʼosservazione critica. 
+
+Dato il codice si richiede allo studente di: 
+
+● Capire cosa fa il programma senza eseguirlo. 
+● Individuare dal codice sorgente le casistiche non standard che il programma non gestisce (esempio, comportamenti potenziali che non sono stati contemplati). 
+● Individuare eventuali errori di sintassi / logici. 
+● Proporre una soluzione per ognuno di essi.
