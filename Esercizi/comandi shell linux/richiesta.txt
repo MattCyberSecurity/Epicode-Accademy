@@ -1,0 +1,18 @@
+Esercizio di oggi: 
+
+Nellʼesercizio di oggi installeremo su Kali Linux un gioco per familiarizzare con i comandi della shell. 
+
+Installazione: 
+
+Per installare il gioco GameShell, eseguire in ordine i seguenti comandi, assicurarsi di avere connettività ad internet prima e 
+di aver eseguito il comando sudo apt-get update. 
+
+# sudo apt install gettext man-db procps psmisc nano tree bsdmainutils x11-apps wget 
+# wget https://github.com/phyver/GameShell/releases/download/latest/gameshell.sh 
+
+Una volta eseguiti i comandi, il gioco può essere lanciato con il comando 
+# bash gameshell.sh 
+
+
+
+Cercate di completare quanti più livelli possibili. In soluzione troverete la risoluzione fino al livello 10.
