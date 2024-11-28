@@ -1,0 +1,15 @@
+Esercizio di oggi 
+
+Criptazione e Firmatura con OpenSSL e Python: 
+
+Obiettivi dell'esercizio: 
+
+● Generare chiavi RSA. Esercizio Traccia e requisiti 
+● Estrarre la chiave pubblica da chiave privata. 
+● Criptare e decriptare messaggi. 
+● Firmare e verificare messaggi. 
+
+Strumenti utilizzati: 
+
+● OpenSSL per la generazione delle chiavi. 
+● Libreria cryptography in Python.
