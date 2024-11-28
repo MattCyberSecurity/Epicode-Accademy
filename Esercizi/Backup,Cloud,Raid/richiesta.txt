@@ -1,0 +1,19 @@
+Gli studenti impareranno i concetti fondamentali del cloud computing, delle strategie di backup e della configurazione RAID, applicando queste conoscenze in un esercizio teorico. 
+
+Istruzioni: 
+
+Introduzione al Cloud Computing: 
+
+1. Ricerca sui principali fornitori di servizi cloud: 
+○ Effettuare una ricerca sui principali fornitori di servizi cloud AWS, Azure, Google Cloud). 
+○ Descrivere brevemente ciascun fornitore e le sue caratteristiche principali. 
+
+2. Descrizione dei Modelli di Servizio Cloud: 
+○ Descrivere i tre modelli principali di servizio cloud: IaaS, PaaS e SaaS. 
+    ■ IaaS Infrastructure as a Service): Fornire un esempio e descrivere i vantaggi. 
+    ■ PaaS Platform as a Service): Fornire un esempio e descrivere i vantaggi. 
+    ■ SaaS Software as a Service): Fornire un esempio e descrivere i vantaggi. 
+
+3. Opzionale - Creazione di un Account di Prova: 
+○ Scegliere uno dei fornitori di servizi cloud e creare un account di prova. 
+○ Documentare i passaggi per la creazione dell'account.
